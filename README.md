@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá 👋
 
  🖥️🧑‍🎓 Sou Daniel e trabalho com tecnologia e desenvolvimento de sistemas e aplicativos desde 2023.  
  Estou cursando a graduação de Engenharia de Software e também curso programação fullstack nas tecnologias Javascript , React, HTML e CSS. ⚙️🏆
